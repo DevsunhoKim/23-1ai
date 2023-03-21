@@ -252,3 +252,5 @@ if __name__ == '__main__':
             # for data in res[1]:
             #print("Accuracy : %.2f" % data)
             print("Average For %s K = %d: %.2f" %(method.__name__, kVal+1, res[0]))
+            
+# 해당 도서 코드 미리 받아보기 실습 하는법 질문하기
